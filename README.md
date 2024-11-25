@@ -32,6 +32,7 @@ Este projeto é de código aberto e pode ser utilizado de acordo com a [Licença
 
 ## Contato
 
-- **Nome**: Seu Nome
-- **Email**: seuemail@dominio.com
-- **RA**: Seu RA
+- **Nome**: Omar Ali Mahmoud
+- **Email**: omarmahmoud3611@gmail.com
+- **RA**: 22163860-5
+
